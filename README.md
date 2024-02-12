@@ -1,7 +1,7 @@
 # Predicting Insurance Cross Sell Opportunities
 The client is an insurance company that has provided health insurance to its customers, now they need your help to build a predictive model that can predict whether the past year's policyholders might also be interested in buying insurance for their vehicle.
 
-## Il dataset è composto dalle seguenti proprietà:
+## Dataset features:
 
 ```
 id: unique id of the buyer.
