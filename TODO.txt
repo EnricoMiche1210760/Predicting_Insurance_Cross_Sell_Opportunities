@@ -1,0 +1,2 @@
+fit_transform solo training set.
+per test set usare solo transform.
